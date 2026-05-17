@@ -3,5 +3,4 @@ two
 three
 four
 five
-
 const color = "blue"
